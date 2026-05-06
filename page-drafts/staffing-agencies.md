@@ -13,7 +13,7 @@
 More Placements. Per Recruiter. Per Quarter.
 
 **Sub-headline:**
-Nebula is staffing agency software that automates sourcing and outreach, cuts time-to-submit, and increases revenue per recruiter -- without adding headcount.
+Nebula is staffing agency software that automates sourcing and outreach, cuts time-to-submit, and increases revenue per recruiter, without adding headcount.
 
 **CTA:** Book a demo
 
@@ -42,12 +42,12 @@ Staffing margins are thin. Every unfilled role is direct revenue loss. When your
 
 **Give Every Recruiter Three AI Assistants**
 
-Nebula is recruiting automation software that handles the sourcing, outreach, and coordination work consuming recruiter capacity -- so your team spends time on the conversations and relationships that actually close placements.
+Nebula is recruiting automation software that handles the sourcing, outreach, and coordination work consuming recruiter capacity, so your team spends time on the conversations and relationships that actually close placements.
 
 ✔ AI sourcing surfaces the top candidates for every req from 200M+ profiles, in minutes not hours
 ✔ Automated multi-step email and SMS outreach runs 24/7, even when recruiters are on calls
 ✔ Candidate engagement tracked in one dashboard: opens, clicks, responses, and reachouts
-✔ Submissions pushed directly into your ATS -- no double-entry, no dropped records
+✔ Submissions pushed directly into your ATS, no double-entry, no dropped records
 ✔ Real-time pipeline analytics show exactly where every req stands across every recruiter
 
 ---
@@ -64,12 +64,12 @@ Up to **$2.5M** in revenue per recruiter. **$500K** in gross profit per head.
 
 ## REAL STORIES
 
-**[TESTIMONIAL PLACEHOLDER -- agency recruiter or VP of Recruiting]**
+**[TESTIMONIAL PLACEHOLDER - agency recruiter or VP of Recruiting]**
 
 *"I've transformed the way I source and engage candidates. The search and automated sequencing have saved hours and let me focus on building real connections."*
--- Nam I., National Staffing Firm
+- Nam I., National Staffing Firm
 
-**[CUSTOMER LOGO BAR -- agency clients]**
+**[CUSTOMER LOGO BAR - agency clients]**
 
 ---
 
@@ -81,9 +81,9 @@ Nebula was built by people who have spent careers solving this problem for the w
 
 ✔ Multi-client and multi-req management built in from day one
 ✔ Candidate ownership rules and do-not-contact compliance controls
-✔ The best ATS for staffing agencies integrates with what you already use -- Bullhorn, Avionte, TargetRecruit, and 60+ more
+✔ The best ATS for staffing agencies integrates with what you already use - Bullhorn, Avionte, TargetRecruit, and 60+ more
 ✔ Bottom-of-funnel productivity first, top-of-funnel only when demand is real
-✔ Human always in the loop -- AI amplifies your recruiters, it does not replace them
+✔ Human always in the loop, AI amplifies your recruiters, it does not replace them
 
 ---
 
