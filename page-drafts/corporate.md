@@ -13,7 +13,7 @@
 Enterprise Hiring. One Platform.
 
 **Sub-headline:**
-Corporate talent acquisition teams use Nebula to consolidate fragmented tools, eliminate manual coordination, and fill roles faster -- all without replacing the ATS they already have.
+Corporate talent acquisition teams use Nebula to consolidate fragmented tools, eliminate manual coordination, and fill roles faster, all without replacing the ATS they already have.
 
 **CTA:** Book a demo
 
@@ -25,7 +25,7 @@ Corporate talent acquisition teams use Nebula to consolidate fragmented tools, e
 |---|---|---|
 | REDUCTION IN TIME-TO-FILL | FASTER SOURCING | LESS MANUAL WORK |
 
----
+-
 
 ## THE CHALLENGE
 
@@ -36,13 +36,13 @@ Most enterprise recruiting teams operate across four to six disconnected platfor
 > **68%** of recruiter time spent on admin, not candidates
 > **40+** days average time-to-fill at enterprise scale
 
----
+-
 
 ## HOW NEBULA HELPS
 
 **Recruiting Automation Software That Keeps Recruiters in Control**
 
-Nebula is talent acquisition software that centralizes sourcing, outreach, and analytics in one recruiting platform -- layered on top of your existing ATS so there is nothing to rip out and nothing to retrain your team on.
+Nebula is talent acquisition software that centralizes sourcing, outreach, and analytics in one recruiting platform, layered on top of your existing ATS so there is nothing to rip out and nothing to retrain your team on.
 
 ✔ AI candidate matching surfaces best-fit profiles for every role, not just keyword matches
 ✔ Automated multi-step outreach via email and SMS, with full send, open, and response visibility
@@ -56,7 +56,7 @@ Nebula is talent acquisition software that centralizes sourcing, outreach, and a
 
 **Faster Fills. Stronger Shortlists. No New Headcount.**
 
-Enterprise teams on Nebula reduce time-to-fill, surface stronger candidate shortlists, and get real-time visibility into what is actually working -- across every recruiter, role, and region.
+Enterprise teams on Nebula reduce time-to-fill, surface stronger candidate shortlists, and get real-time visibility into what is actually working, across every recruiter, role, and region.
 
 ---
 
@@ -67,8 +67,8 @@ EPIC · Rochester Regional · Care.com · DV Trading · Viva
 
 **[TESTIMONIAL PLACEHOLDER -- enterprise TA leader]**
 
-*"I love using Nebula -- it helps me find people I can't reach on LinkedIn. Having accurate contact info in one place makes sourcing easier and more streamlined."*
--- Sydney, Proprietary Trading Firm
+*"I love using Nebula, it helps me find people I can't reach on LinkedIn. Having accurate contact info in one place makes sourcing easier and more streamlined."*
+- Sydney, Proprietary Trading Firm
 
 ---
 
@@ -78,11 +78,11 @@ EPIC · Rochester Regional · Care.com · DV Trading · Viva
 
 Enterprise TA is not just high volume. It is distributed teams, compliance requirements, hiring across functions and geographies, and leadership demanding data they can actually act on. Nebula was designed for exactly this.
 
-✔ ATS-complementary -- adds intelligence and outreach on top of what you already have
-✔ Human-in-the-loop by design -- AI surfaces candidates, recruiters make every call
+✔ ATS-complementary - adds intelligence and outreach on top of what you already have
+✔ Human-in-the-loop by design - AI surfaces candidates, recruiters make every call
 ✔ Enterprise-grade security, access controls, and compliance support
 ✔ Full campaign transparency: sends, opens, and responses at every stage
-✔ Predictive AI, not generative -- working with real candidate data, not fabricated matches
+✔ Predictive AI, not generative - working with real candidate data, not fabricated matches
 
 ---
 
