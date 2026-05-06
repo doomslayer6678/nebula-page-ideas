@@ -13,7 +13,7 @@
 Your ATS Tracks Applicants. Nebula Finds Them.
 
 **Sub-headline:**
-Traditional applicant tracking systems manage what is already in your pipeline. Nebula is an AI ATS that builds it -- with candidate sourcing software, automated outreach, and talent intelligence your ATS was never designed to provide.
+Traditional applicant tracking systems manage what is already in your pipeline. Nebula is an AI ATS that builds it, with candidate sourcing software, automated outreach, and talent intelligence your ATS was never designed to provide.
 
 **CTA:** Book a demo · See how it works
 
@@ -41,7 +41,7 @@ For that job, they work.
 
 **The Jobs Your ATS Was Never Designed to Do**
 
-The best candidates for your open roles usually have not applied. They are working elsewhere, not browsing job boards, and not in your ATS. Passive candidate sourcing and outbound recruiting require a different tool entirely -- and most ATS platforms were never built for it.
+The best candidates for your open roles usually have not applied. They are working elsewhere, not browsing job boards, and not in your ATS. Passive candidate sourcing and outbound recruiting require a different tool entirely, and most ATS platforms were never built for it.
 
 ✗ Finding passive candidates who have not applied
 ✗ Automating personalized outreach at scale
@@ -57,7 +57,7 @@ The best candidates for your open roles usually have not applied. They are worki
 
 Nebula does not replace your ATS. It layers on top of it. While your ATS manages the applicants you already have, Nebula acts as an AI-powered sourcing software that finds the candidates you have not reached yet, engages them automatically, and feeds the best ones directly into your existing pipeline.
 
-✔ AI sourcing from 200M+ profiles -- surfaces fit by context, not just keywords
+✔ AI sourcing from 200M+ profiles - surfaces fit by context, not just keywords
 ✔ Automated multi-step outreach via email and SMS, running 24/7
 ✔ Full engagement tracking: sends, opens, and responses at every stage
 ✔ Talent intelligence: salary benchmarks, skills gaps, and competitor hiring data
@@ -91,9 +91,9 @@ Enterprise teams do not swap ATS platforms lightly. Migrations take months, cost
 
 You keep your workflows, compliance rules, and reporting structures. Nebula adds what is missing: the candidates, the outreach, and the intelligence.
 
-✔ Predictive AI, not generative -- real candidate data, zero hallucinated profiles
-✔ Human always in the loop -- AI surfaces, recruiters decide
-✔ No rip-and-replace -- connects to your ATS in under a day
+✔ Predictive AI, not generative - real candidate data, zero hallucinated profiles
+✔ Human always in the loop - AI surfaces, recruiters decide
+✔ No rip-and-replace - connects to your ATS in under a day
 ✔ Nearly a decade building in this space, domain expertise not just software
 
 ---
@@ -102,7 +102,7 @@ You keep your workflows, compliance rules, and reporting structures. Nebula adds
 
 **Built for Teams That Need More Than a Database**
 
-If your recruiters spend more time sourcing than talking to candidates -- if your pipeline depends on who applied rather than who is the best fit -- if you have no visibility into what is slowing down your fills -- Nebula was built for you.
+If your recruiters spend more time sourcing than talking to candidates, if your pipeline depends on who applied rather than who is the best fit, if you have no visibility into what is slowing down your fills, Nebula was built for you.
 
 ---
 
