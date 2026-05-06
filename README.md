@@ -1,0 +1,192 @@
+[document_pdf (1).pdf](https://github.com/user-attachments/files/27456094/document_pdf.1.pdf)
+[document_pdf.pdf](https://github.com/user-attachments/files/27456096/document_pdf.pdf)
+[Pages.csv](https://github.com/user-attachments/files/27456111/Pages.csv)
+[Queries.csv](https://github.com/user-attachments/files/27456113/Queries.csv)
+[sitemap.xml](https://github.com/user-attachments/files/27456117/sitemap.xml)
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://www.nebula.io/</loc>
+  <lastmod>2026-05-06T20:46:17+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.nebula.io/product</loc>
+  <lastmod>2026-05-06T20:46:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nebula.io/solutions</loc>
+  <lastmod>2026-05-06T20:10:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nebula.io/industries</loc>
+  <lastmod>2026-05-06T20:46:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nebula.io/about</loc>
+  <lastmod>2026-05-06T20:46:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nebula.io/blog</loc>
+  <lastmod>2026-05-06T20:46:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nebula.io/contact-us</loc>
+  <lastmod>2026-05-06T20:46:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nebula.io/appointments</loc>
+  <lastmod>2026-05-06T20:46:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nebula.io/case-studies</loc>
+  <lastmod>2026-05-06T20:46:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nebula.io/legal/terms</loc>
+  <lastmod>2026-05-06T20:46:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nebula.io/legal/privacy-statement</loc>
+  <lastmod>2026-05-06T20:46:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nebula.io/blog/ai-recruiting-platform-trends-2026-nebula-at-sia-executive-forum</loc>
+  <lastmod>2026-05-06T20:46:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nebula.io/blog/eliminating-bias-in-hiring-why-byebias-tm-is-a-game-changer-for-de-i</loc>
+  <lastmod>2026-05-06T20:46:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nebula.io/blog/how-nebula-transforms-a-recruiters-day-to-day</loc>
+  <lastmod>2026-05-06T20:46:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nebula.io/blog/the-future-of-recruiting-how-ai-and-automation-free-up-recruiters-to-be-more-human</loc>
+  <lastmod>2026-05-06T19:49:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nebula.io/blog/3-staffing-trends-from-sia-2026-that-will-define-the-next-12-months</loc>
+  <lastmod>2026-05-06T20:46:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nebula.io/blog/the-hidden-cost-of-manual-recruiting-sia-2026-insights</loc>
+  <lastmod>2026-05-06T20:20:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nebula.io/blog/sia-2026-revealed-the-ai-recruiting-crisis-crushing-staffing-firms</loc>
+  <lastmod>2026-05-06T20:46:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nebula.io/blog/is-pin-a-full-recruiting-platform-or-just-recruiting-automation</loc>
+  <lastmod>2026-05-06T20:46:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nebula.io/blog/recruiting-automation-software-vs-full-ai-ats-nebula-vs-pin</loc>
+  <lastmod>2026-05-06T20:46:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nebula.io/blog/best-indeed-recruiter-alternative-why-ai-recruiting-software-wins</loc>
+  <lastmod>2026-05-06T19:49:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nebula.io/blog/ai-recruiting-software-vs-job-boards-nebula-vs-indeed-recruiter</loc>
+  <lastmod>2026-05-06T20:46:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nebula.io/blog/is-linkedin-recruiter-worth-the-cost</loc>
+  <lastmod>2026-05-06T20:46:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nebula.io/blog/linkedin-recruiter-pricing-vs-nebula-which-platform-is-better</loc>
+  <lastmod>2026-05-06T19:47:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nebula.io/blog/best-seekout-alternative-pricing-limits-why-teams-switch</loc>
+  <lastmod>2026-05-06T20:46:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nebula.io/blog/seekout-pricing-vs-nebula-which-ai-recruiting-platform-is-better</loc>
+  <lastmod>2026-05-06T20:46:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nebula.io/blog/what-is-the-best-juicebox-ai-alternative-for-recruiting-teams</loc>
+  <lastmod>2026-05-06T20:46:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nebula.io/blog/juicebox-ai-vs-nebula-which-candidate-sourcing-software-wins</loc>
+  <lastmod>2026-05-06T20:46:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nebula.io/blog/best-gem-alternative-for-mid-market-recruiting-teams</loc>
+  <lastmod>2026-05-06T20:46:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nebula.io/blog/gem-pricing-vs-nebula-which-ai-recruiting-platform-is-better</loc>
+  <lastmod>2026-05-06T20:46:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nebula.io/blog/is-hireez-worth-it-pricing-reviews-what-to-use-instead</loc>
+  <lastmod>2026-05-06T20:46:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nebula.io/blog/hireez-pricing-vs-nebula-which-ai-recruiting-platform-is-better</loc>
+  <lastmod>2026-05-06T20:46:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nebula.io/blog/from-manual-to-modern-how-one-staffing-firm-transformed-sourcing-with-nebula</loc>
+  <lastmod>2026-05-06T20:46:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nebula.io/blog/how-a-proprietary-trading-firm-transformed-its-technical-hiring-with-nebula-platform</loc>
+  <lastmod>2026-05-06T20:46:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nebula.io/freemium</loc>
+  <lastmod>2026-05-06T20:46:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
