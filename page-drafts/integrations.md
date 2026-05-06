@@ -43,7 +43,7 @@ Most enterprise recruiting stacks were not designed to work together. Candidate 
 
 Nebula sits on top of your existing stack, syncing candidate data, pushing submissions to your ATS, and pulling open requisitions automatically. There is nothing to rip out and nothing to migrate.
 
-**[INTEGRATION GRID -- logos in 4-column visual grid]**
+**[INTEGRATION GRID - logos in 4-column visual grid]**
 
 ### Applicant Tracking Systems
 Greenhouse · Lever · Workday Recruiting · Bullhorn · iCIMS · Jobvite · SmartRecruiters · SAP SuccessFactors · Oracle Taleo · Avionté · TargetRecruit · JazzHR · Rippling ATS · Breezy HR · Recruitee · and 40+ more
@@ -68,10 +68,10 @@ Slack · Microsoft Outlook · Google Workspace
 
 No custom development. No IT tickets. No months-long implementation projects.
 
-✔ Pull open requisitions from your ATS automatically -- no manual job entry
+✔ Pull open requisitions from your ATS automatically - no manual job entry
 ✔ Push qualified candidates directly into your ATS pipeline
 ✔ Sync candidate status and disposition in real time across both systems
-✔ Log outreach activity -- emails sent, responses received -- without leaving your ATS
+✔ Log outreach activity - emails sent, responses received - without leaving your ATS
 ✔ Preserve all existing hiring workflows, compliance rules, and permissions
 
 ---
@@ -91,7 +91,7 @@ The result: your existing ATS gets smarter without anyone learning something new
 **[TESTIMONIAL PLACEHOLDER]**
 
 *"My favorite Nebula feature is the LinkedIn URL plug-in. When you combine that with contact information, it's a powerful tool to reach candidates directly."*
--- Jared, Executive Vice President
+- Jared, Executive Vice President
 
 ---
 
