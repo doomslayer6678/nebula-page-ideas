@@ -28,11 +28,12 @@ Posts are organized into 7 clusters. Write within a cluster before jumping betwe
 
 ---
 
-### Post 2 -- Is LinkedIn Recruiter Worth It in 2026? An Honest Review
-**URL:** `/blog/is-linkedin-recruiter-worth-it-2026`
-**Primary KW:** "is linkedin recruiter worth it"
-**GSC signal:** Builds on existing blog momentum at pos 12.93 with 3,469 impressions. "linkedin recruiter limitations for sourcing" (46 imp, pos 7.76) is already close to page 1.
-**Angle:** Balanced review that respects LinkedIn Recruiter for what it does (inbound sourcing database) and exposes the gap (no outreach automation, no pipeline analytics, no ATS sync). Media training framing: "LinkedIn Recruiter is passive. Nebula is active."
+### Post 2 -- LinkedIn Recruiter Lite vs Business+ vs Corporate: Which Plan Do You Actually Need?
+**URL:** `/blog/linkedin-recruiter-plans-compared`
+**Primary KW:** "linkedin recruiter pricing tiers" + "linkedin recruiter lite vs business"
+**GSC signal:** "how much is a linkedin recruiter license" (47 imp, pos 13) and "how much is a linkedin recruiter seat" (42 imp, pos 20) -- both are plan-specific pricing queries that the existing "is it worth the cost" blog does not answer directly.
+**Note -- no overlap:** The existing published blog at /blog/is-linkedin-recruiter-worth-the-cost is a general ROI review. This post is a plan breakdown (Lite vs Business+ vs Corporate -- what each includes, per-seat cost, seat limits, what you lose at each tier). Different intent, different SERP.
+**Angle:** Straight breakdown of all three tiers with honest per-seat math. Closes with: "If you're maxing out a Business+ seat, you're probably also missing the outreach and pipeline tools you need -- here's what teams pair it with."
 
 ---
 
@@ -126,11 +127,12 @@ Posts are organized into 7 clusters. Write within a cluster before jumping betwe
 
 ---
 
-### Post 13 -- Best AI Recruiting Software in 2026 (By Use Case)
-**URL:** `/blog/best-ai-recruiting-software` (already drafted -- publish with KW update)
-**Primary KW:** "best ai recruiting software" + "ai recruiting software"
-**GSC signal:** Existing drafted content. "ai recruiting solutions" (243 imp, pos 28), "ai recruitment solutions" (85 imp). Large combined cluster.
-**Action:** Already drafted -- ship with media training messaging ("platform first, AI as modifier"). Ensure H1 leads with use case framing, not AI-first framing.
+### Post 13 -- How Much Does AI Recruiting Software Cost? (2026 Pricing Guide)
+**URL:** `/blog/ai-recruiting-software-pricing`
+**Primary KW:** "ai recruiting software pricing" + "ai recruiting software cost"
+**GSC signal:** "ai recruiting solutions" (243 imp, pos 28) + "ai hiring platform" (96 imp, pos 18.71) -- both are from buyers who know the category and are now evaluating cost. Different intent from the drafted buyer's guide (how-to-choose vs. how-much-does-it-cost).
+**Note -- no overlap:** The drafted "How to Choose AI Recruiting Software: 2026 Buyer's Guide" covers evaluation criteria and features. This post covers pricing models, contract structures, and what drives cost differences. Different SERP intent, different buyer stage.
+**Angle:** Honest breakdown of how AI recruiting software is typically priced (per seat, per placement, platform fee), what drives cost up, red flags in pricing structures, and what to expect at $10K, $25K, and $50K+ price points. Nebula's pricing model framed as transparent at the end.
 
 ---
 
@@ -294,11 +296,11 @@ Posts are organized into 7 clusters. Write within a cluster before jumping betwe
 
 These three exist in the Google Drive doc and are ready to ship with minor messaging updates:
 
-| Post | URL | Action needed |
+| Post | Title (as drafted) | Action needed |
 |---|---|---|
-| AI Recruiting Software Buyer's Guide | `/blog/ai-recruiting-software` | Add media training messaging -- "platform first, AI as modifier." Ensure title has 2026. |
-| What is a Talent Intelligence Platform? | `/blog/talent-intelligence-platform` | Publish as-is. Strongest non-branded organic opportunity currently in draft. |
-| Top 6 Talent Matching Platforms Compared | `/blog/talent-matching-platforms` | Publish as-is. Complements the talent intelligence post. |
+| AI Recruiting Software Buyer's Guide | "How to Choose AI Recruiting Software: 2026 Buyer's Guide" | Add media training messaging -- "platform first, AI as modifier." Confirm primary KW is in H1 and title tag. |
+| Talent Intelligence Platform | "What is a Talent Intelligence Platform? 2026 Guide" | Publish as-is. Strongest non-branded organic opportunity currently in draft. |
+| Talent Matching Platforms | "Top 6 Talent Matching Platforms Compared (2026)" | Publish as-is. Complements the talent intelligence post. |
 
 ---
 
@@ -308,7 +310,7 @@ These three exist in the Google Drive doc and are ready to ship with minor messa
 |---|---|---|
 | **Week 1** | Publish 3 drafted posts (AI Recruiting, Talent Intelligence, Talent Matching) | Zero incremental writing. Just ship. |
 | **Week 2** | Post 16 (Predictive vs Generative AI) + Post 3 (LinkedIn Recruiter Alternatives) | Post 16 already ranking at pos 5.72. Post 3 already at pos 6.96. Both are one push from page 1. |
-| **Week 3** | Posts 1-2 (LinkedIn Recruiter pricing + review) | Complete the LinkedIn Recruiter pricing hub while momentum is building. |
+| **Week 3** | Posts 1, 2 (LinkedIn Recruiter pricing hub + plan comparison) | Complete the LinkedIn Recruiter pricing cluster while momentum is building. |
 | **Week 4** | Posts 20, 17, 18 (Candidate sourcing software, passive sourcing, outbound recruiting) | Trending keywords -- time-sensitive advantage. |
 | **Month 2** | Posts 12-15 (AI platform cluster) | Build topical authority in the AI recruiting category. |
 | **Month 2** | Posts 21-24 (Staffing agency cluster) | Support the new staffing solution page with top-of-funnel content. |
